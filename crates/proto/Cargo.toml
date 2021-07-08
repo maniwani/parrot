@@ -1,0 +1,10 @@
+[package]
+name = "parrot-proto"
+version = "0.0.0"
+description = "TBD"
+repository = "https://github.com/maniwani/parrot"
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
+num-traits = "0.2"

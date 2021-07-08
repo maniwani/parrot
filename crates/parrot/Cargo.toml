@@ -1,0 +1,7 @@
+[package]
+name = "parrot"
+version = "0.0.1"
+description = "TBD"
+repository = "https://github.com/maniwani/parrot"
+license = "MIT OR Apache-2.0"
+edition = "2021"
